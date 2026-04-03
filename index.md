@@ -1,6 +1,10 @@
 ---
-title: "Viande bovine (Ferme Babé à Brebotte)"
+title: "ACCUEIL"
 order: 2
 in_menu: true
 ---
-![Viande bovine (Ferme Babé à Brebotte)]({% link images/viande bovine.jpg %}) 
+## Bonjour !
+# Bienvenue sue le site de l'épicerie sociale, solidaire et mobile.
+Vous trouverez en haut et en bas de pages les mêmes menus, qui vous amèneront vers la liste des produits (normalement à jour) et leurs prix (normalement à jour aussi).
+
+![image de la camionnette]({% link images/camionette profil et blanc.png %}) 
