@@ -1,6 +1,6 @@
 ---
 title: "ACCUEIL"
-order: 12
+order: 1
 in_menu: true
 ---
 ## Bonjour !
