@@ -5,6 +5,6 @@ in_menu: true
 ---
 ![Produits sucrés]({% link images/produits sucrés.jpg %}) 
 
- <a href="https://epiceriemobile.github.io/essm90/viande%20bovine%20-ferme%20babe%20a%20brebotte-.html" class="bouton">Vers viande bovine</a>
+ <a href="https://epiceriemobile.github.io/essm90/viande%20bovine%20-ferme%20babe%20a%20brebotte-.html" class="bouton">---> viande bovine</a>
 
- <a href="https://epiceriemobile.github.io/essm90/produits%20pour%20animaux.html" class="bouton">Vers Produits pour animaux</a> 
+ <a href="https://epiceriemobile.github.io/essm90/produits%20pour%20animaux.html" class="bouton">---> Produits pour animaux</a> 
